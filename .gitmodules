@@ -1,0 +1,4 @@
+[submodule "cc-template"]
+	path = cc-template
+	url = https://github.com/mak9su4roi/cc-template
+	branch = main
