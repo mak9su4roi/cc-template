@@ -1,0 +1,2 @@
+# cc-template
+C++ template
